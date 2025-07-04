@@ -1,0 +1,23 @@
+# Python runtime files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+# If you created a virtual environment named 'venv', 'env', etc.
+venv/
+.venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Files for credentials or local settings
+# It's a very good practice to have this here even if you don't use it yet.
+.env 
